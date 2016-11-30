@@ -1,0 +1,13 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "showing you some header info like your ipv4 address, and user agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Jonathan T L Lee",
+  "license": "MIT",
+  "repository": "https://github.com/Lee182/fcc-request-header-parse.git"
+}
